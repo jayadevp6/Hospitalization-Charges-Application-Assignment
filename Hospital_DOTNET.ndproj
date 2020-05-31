@@ -2,7 +2,7 @@
 <NDepend AppName="Hospital-DOTNET" Platform="DotNet" FileWrittenByProductVersion="2020.1.0.9404">
   <OutputDir KeepXmlFiles="False">.\NDependOut1</OutputDir>
   <IDEFiles>
-    <IDEFile FilePath="E:\Project_HillRom\Hospitalization-Charges-Application-Assignment\PrabhSimran_CSIS1175_AS1.sln" Filters="-test" Configuration="DEBUG|AnyCPU" />
+    <IDEFile FilePath="${bamboo.build.working.directory}/PrabhSimran_CSIS1175_AS1.sln" Filters="-test" Configuration="DEBUG|AnyCPU" />
   </IDEFiles>
   <Assemblies />
   <FrameworkAssemblies>
