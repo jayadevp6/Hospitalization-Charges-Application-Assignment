@@ -2,7 +2,7 @@
 <NDepend AppName="Hospital-DOTNET" Platform="DotNet" FileWrittenByProductVersion="2020.1.0.9404">
   <OutputDir KeepXmlFiles="True">.\NDependOut6</OutputDir>
   <IDEFiles>
-    <IDEFile FilePath=.\PrabhSimran_CSIS1175_AS1.sln Filters="-test" Configuration="DEBUG|AnyCPU" />
+    <IDEFile FilePath=".\PrabhSimran_CSIS1175_AS1.sln" Filters="-test" Configuration="DEBUG|AnyCPU" />
   </IDEFiles>
   <Assemblies />
   <FrameworkAssemblies>
